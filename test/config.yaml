@@ -1,0 +1,13 @@
+folder_in: /home/new_user1_dir/tst
+folder_out: /home/new_user1_dir/out
+folder_ext: /home/new_user1_dir/fldr1
+folder_ext2: /home/new_user1_dir/fldr2
+count: 5
+bs: 1b
+ip: 0.0.0.0
+user: new_user1
+passwd: "55"
+r_path: new_user1_dir
+l_path: zm
+pkgname: p7zip-full
+type: 7z
